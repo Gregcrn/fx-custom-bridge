@@ -1,0 +1,14 @@
+{
+    "name": "fxportal-polygon",
+    "description": "Valid FxPortal for Polygon chain",
+    "main": "truffle-config.js",
+    "dependencies": {
+        "@maticnetwork/fx-portal": "^1.0.5",
+        "@truffle/hdwallet-provider": "^2.1.7"
+    },
+    "scripts": {
+        "test": "truffle test"
+    },
+    "author": "GregCrn",
+    "license": "MIT"
+}
